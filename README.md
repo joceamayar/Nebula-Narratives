@@ -16,7 +16,7 @@ https://cdziedzic.github.io/Nebula-Narratives/
 ## Credits
 
 Christian Dziedzic - https://github.com/cdziedzic 
-Jocelin Amaya - https://github.com/joceamayar
+Jocelin Amaya - https://github.com/joceamayar foirk from original repo 
 Cynthia Huertas - https://github.com/CyndiCodes
 
 apis used:
